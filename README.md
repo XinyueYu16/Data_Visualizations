@@ -8,3 +8,4 @@ A Visualization is worth a thousand words.
 ### Python
 - [Clinic appointment show-up rate EDA](https://github.com/XinyueYu16/Data_Visualizations/blob/master/Clinic%20appointment%20show-up%20rate%20EDA.ipynb)
 - [Explore SF and Global Weather Trends](https://github.com/XinyueYu16/Data_Visualizations/blob/master/Explore%20Weather%20Trends.ipynb)
+- [Insights from @WeRateDogs](https://htmlpreview.github.io/?https://github.com/XinyueYu16/Data_Visualizations/blob/master/Insights%20from%20%40WeRateDogs.html)
