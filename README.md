@@ -11,4 +11,4 @@ A Visualization is worth a thousand words.
 - [Clinic appointment show-up rate EDA](https://github.com/XinyueYu16/Data_Visualizations/blob/master/Clinic%20appointment%20show-up%20rate%20EDA.ipynb)
 - [Explore SF and Global Weather Trends](https://github.com/XinyueYu16/Data_Visualizations/blob/master/Explore%20Weather%20Trends.ipynb)
 
-<font size = 5>_All the HTML preview are used by url provided by [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) developed by niu tech._</font>
+<sub>_All the HTML preview are used by url provided by [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) developed by niu tech._</sub>
