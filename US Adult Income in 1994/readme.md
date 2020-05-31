@@ -25,3 +25,5 @@ For the presentation, I focus on the story of adult income situation in 1994. I 
 Then, I will introduce the 5 characteristics that are most important in predicting income group, they are numerical values of `adult age`, `working hours per week`, and `eduaction level`, which will be presented in boxplots; as well as categorical values of `sex` and `race`, with countplots. Then I will show the interaction effects of `hours-per-week` and `work classes` with either `race` or `sex` in FacetGrids mapped with countplots. 
 
 To make the visualizations clear and consistent, I used blue for '<50K' income group and orange for '>50K' group uniformly.
+
+_The HTML slide deck was generated using nbconvert and output_toggle.tpl, from this [repository](https://github.com/damianavila/blog/blob/master/posts/hide-the-input-cells-from-your-ipython-slides.ipynb)_
