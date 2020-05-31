@@ -26,4 +26,4 @@ Then, I will introduce the 5 characteristics that are most important in predicti
 
 To make the visualizations clear and consistent, I used blue for '<50K' income group and orange for '>50K' group uniformly.
 
-_The HTML slide deck was generated using nbconvert and output_toggle.tpl, from this [repository](https://github.com/damianavila/blog/blob/master/posts/hide-the-input-cells-from-your-ipython-slides.ipynb)_
+_The HTML slide deck was generated using nbconvert and output_toggle.tpl, from this [repository](https://github.com/damianavila/blog/blob/master/posts/hide-the-input-cells-from-your-ipython-slides.ipynb)._
